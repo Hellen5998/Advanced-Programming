@@ -1,0 +1,37 @@
+<h1>项目介绍</h1><br>
+<p><strong>项目名称：</strong> 国学大师爬虫</p>
+<p><strong>项目功能：</strong> 本项目旨在爬取国学大师网站中文字部件、说文解字和中医中药三部分的主要内容（文字+图片）。</p>
+<p><strong>项目成员：</strong>
+李响、张以欣、梁紫君、梁彧彧<br>
+<p><strong>文件构成：</strong>
+该项目包含三个py文件、一个pptx文件（可下载）及一个xlsx文件（可下载）。文件结构如下：</p>
+<table>
+<thead>
+<tr>
+<th>文件名</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>parse_1.py</td>
+<td>用于爬取文字部件部分，使用selenium及pyquery</td>
+</tr>
+<tr>
+<td>parse_2.py</td>
+<td>用于爬取说文解字部分，使用BeautifulSoup</td>
+</tr>
+<tr>
+<td>parse_3.py</td>
+<td>用于爬取中医中药部分，使用BeautifulSoup</td>
+</tr>
+<tr>
+<td>report.pptx</td>
+<td>presentation（项目介绍+成果展示+代码对比分析+经验总结）</td>
+</tr>
+<tr>
+<td>越过山丘项目分工表.xlsx</td>
+<td>项目分工及进度</td>
+</tr>
+</tbody>
+</table>
