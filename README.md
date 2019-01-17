@@ -1,5 +1,5 @@
 # 目录介绍
-2018-2019第一学期Python代码汇总
+<strong>2018-2019第一学期Python代码汇总</strong>
 <p><strong>目录名称：</strong> Advanced-Programming</p>
 <p><strong>目录功能：</strong> 存储高级编程（一）课程的平时作业、课堂练习、课外练习及期末项目文件。</p>
 <p><strong>所有者：</strong> 李响</p>
@@ -46,3 +46,4 @@
 </tr>
 </tbody>
 </table>
+<p><strong>代码总量：</strong>.ipynb*52+.py*6</p>
