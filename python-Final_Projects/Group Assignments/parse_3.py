@@ -5,8 +5,8 @@ from pyquery import PyQuery as pq
 '''
 越过山丘小组：李响、张以欣、梁紫君、梁彧彧
 用于爬取中医著作、药材药方、中医大辞典
-将中医著作存至'D:\\Parse\TCM\Books\著作名+章节名.txt'
-将药材药方、中医大辞典（著作下方内容）存至'D:\\Parse\TCM\Medicine\药材药方名（或辞典词条名）.txt'
+将中医著作存至'D:\\Parse\TCM\Books\著作名+章节名.txt'；
+将药材药方、中医大辞典（著作下方内容）存至'D:\\Parse\TCM\Medicine\药材药方名（或辞典词条名）.txt'；
 '''
 if __name__ == "__main__":
     #获取首页链接标题
