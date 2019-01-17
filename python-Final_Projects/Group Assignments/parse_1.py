@@ -4,7 +4,7 @@ from pyquery import PyQuery as pq
 from selenium import webdriver
 '''
 越过山丘小组：李响 张以欣 梁紫君 梁彧彧
-用于爬取国学大师部件及每个部件对应的所有汉字的详情信息；
+用于爬取国学大师部件及每个部件对应的所有汉字的详情信息
 所有部件存至D:\\Parse\\bujian.txt；
 每个部件对应的汉字存至D:\\Parse\部件名.txt；
 每一部件中各个汉字的详情内容存至D:\\Parse\部件名_details.txt；
