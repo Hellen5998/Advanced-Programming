@@ -9,8 +9,8 @@ from bs4 import BeautifulSoup
 '''
 越过山丘小组：李响 张以欣 梁紫君 梁彧彧
 用于爬取国学大师说文解字每个字的详情信息及其在扫描版《说文解字》中的图片url
-所有详情信息以txt格式存至D:\Echo\Parse\shuowenjiezi\字名 说文解字.txt
-所有图片url存储在每个字的详情信息txt中，存于详情信息后
+所有详情信息以txt格式存至D:\Echo\Parse\shuowenjiezi\字名 说文解字.txt；
+所有图片url存储在每个字的详情信息txt中，存于详情信息后；
 
 '''
 if __name__ =="__main__":
